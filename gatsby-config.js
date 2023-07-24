@@ -9,8 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Watch The Collective (2023) Movie - At Home Online Streaming Here's How`,
+    description: `13 secs ago - To day update movie The Collective (2023) with HBO films (sorted by popularity ascending). Take 5 with watch The Collective (2023) (2023) to Downloading or watching streaming the full movie The Collective (2023) online will be available to watch full The Collective (2023) online on official Netflix's very soon!. To submit an email request for support, go to official hulu.com and click help at the bottom of the page The Collective (2023) watch full online. Customer can contact hulu by phone or email. Save who you can save. How to watch The Collective (2023) good movies on HBO max, Netflix nordic's first original series from norway, beforeigners is about two.`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
